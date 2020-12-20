@@ -1,0 +1,60 @@
+---
+title: "Taller de Introducción a Markdown"
+subtitle: ""  
+author: "_Equipo de Tutores Sociología 2020_"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      countIncrementalSlides: false
+      beforeInit: "https://jciturras.github.io/ayudantia-sol3051/slides/00-intro-r/macros.js"
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>`
+    css: ["https://jciturras.github.io/ayudantia-sol3051/slides/00-intro-r/xaringan-coes.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"]
+    #seal: false # esto omite title slide automática  
+---
+class: center, middle
+
+# _Equipo de Tutores Sociología 2020_
+- José Lopez
+- Iván Ojeda
+- Vanessa Leyton
+- Javiera Wompner
+- Martín Venegas
+
+```{r setup, include=FALSE,eval=TRUE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo(primary_color = "#1F4257", secondary_color = "#F97B64")
+
+```
+---
+class: inverse, center, middle
+
+# Estructura de presentación
+
+- ¿Qué es Markdown?: Algunos ejemplos
+- ¿Por qué usar Markdown?
+- ¿Cómo usar Markdown?
+- RMarkdown
+---
+# ¿Qué es Markdown?
+
+---
+# ¿Por qué usar Markdown
+---
+# ¿Cómo usar Markdown?
+---
+# RMarkdown
+---
+class: inverse, center, middle
+
+# ¡Muchas gracias!
