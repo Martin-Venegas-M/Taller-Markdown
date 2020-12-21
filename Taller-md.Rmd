@@ -231,10 +231,30 @@ Esto se da a travéz del **renderizado**, y especialmente con un paquete llamado
 
 ![:scale 70%](cv.png)
 ---
-class: inverse, center, middle
+class: inverse, middle
 
-# Sintesis
+# Síntesis
+
+- Markdown es un lenguaje de escritura de texto plano de **pocas marcas de edición**.
+
+- Markdown nos permite ser propietarios de lo que escribimos, poner el foco en el contenido y es la base para elaborar documentos académicos simples y estéticos.
+
+- Markdown abre la puerta a una serie de herramientas digitales.
+
+- RMarkdown nos permite crear documentos dinamicos (que combinan código y escritura)
+
+- RMarkdown hace más eficaz el flujo de trabajo, permite la reproducibilidad y la personalización.
+- RMarkdown permite elaborar otro tipo de documentos, como presentaciones y curriculums vitae.
 ---
+# Recursos
+- Esta presentación toma gran parte de su contenido del ramo Ciencia Social Abierta, elaborado por el profesor Juan Carlos Castillo. Para ver el material del ramo hacer click [aquí](https://cienciasocialabierta.netlify.app/).
+
+- La estética de esta presentación fue elaborada por [Julio Iturra](https://github.com/jciturras).
+
+- Un buen de tutorial para Markdown puede encontrarse [aquí](https://www.markdowntutorial.com/).
+
+- Para ver un resumen de las distintas marcas de RMarkdown hacer click [aquí](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 ---
 class: inverse, center, middle
 # ¡Muchas gracias!
+
