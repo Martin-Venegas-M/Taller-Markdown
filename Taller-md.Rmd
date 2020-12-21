@@ -254,6 +254,8 @@ class: inverse, middle
 - Un buen de tutorial para Markdown puede encontrarse [aquí](https://www.markdowntutorial.com/).
 
 - Para ver un resumen de las distintas marcas de RMarkdown hacer click [aquí](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+- Para una guía completa de RMarkdown ver [aquí](https://bookdown.org/yihui/rmarkdown/)
 ---
 class: inverse, center, middle
 # ¡Muchas gracias!
