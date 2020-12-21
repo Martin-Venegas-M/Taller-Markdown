@@ -24,7 +24,7 @@ class: center, middle
 - José Lopez
 - Iván Ojeda
 - Vanessa Leyton
-- Javiera Wompner
+- Javiera Wömpner
 - Martín Venegas
 
 ```{r setup, include=FALSE,eval=TRUE}
@@ -46,10 +46,53 @@ class: inverse, center, middle
 - ¿Cómo usar Markdown?
 - RMarkdown
 ---
-# ¿Qué es Markdown?
+
+.center[<img src="input/images/md-logo.png">]
 
 ---
-# ¿Por qué usar Markdown
+class: center, middle
+
+# ¿Qué es Markdown?.md
+
+Es un tipo de escritura digital en **texto plano**:
+
+Forma de escribir que da formato al contenido en base a marcas de edición.
+---
+.pull-left[<img src="input/images/ejemplo01.png">]
+.pull-right[<img src="input/images/ejemplo02.png">]
+---
+.pull-left[<img src="input/images/ejemplo03.png">]
+.pull-right[<img src="input/images/ejemplo04.png">]
+---
+# ¿Por qué usar Markdown?
+
+- Independiente a cualquier programa o plataforma en particular.
+
+- Permite generar documentos dinámicos: combinar tanto texto como código.
+
+- Se prioriza el contenido de lo escrito antes que el formato.
+
+- Entre los distintos tipos de texto plano, Markdown es sencillo y permite todo lo necesario para documentos académicos.
+
+- Documento base que puede ser transformado a distintas formatos de salida (html, pdf, word, etc.)
+
+--
+.center[<img src="input/images/oa.png">]
+---
+<img src="input/images/word.png">
+---
+### Abre un mundo de nuevas herramientas digitales:
+- **RMarkdown**
+
+- Protocolos de trabajo reproducible
+
+- Xaringan
+
+- Git/Github 
+
+- Github pages
+
+.center[https://martin-venegas-m.github.io/Open-Social-Sciences/]
 ---
 # ¿Cómo usar Markdown?
 ---
