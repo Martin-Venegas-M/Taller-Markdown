@@ -132,7 +132,7 @@ Markdown se basa en marcas de edición simples y faciles de recordar. Algunas de
 - **Citas en bloque:** ``` > gran cita en bloque```
 ---
 # Ejemplo de las marcas anteriores: Marx
-.center[![](https://lh3.googleusercontent.com/proxy/VPtTxDCL28hKjVOQj-3FZI1YzU0cfWSbjCDcC58GR6ZgOUUBlx5-jxuFfe2iL3kFH3JVzEPjLfDVRAMhmdb9dY-V19vdnx27SdeuOJ5yR1CzcpSL)]
+.center[![:scale 15%](marx.jpg)]
 
 > Toda la historia de la sociedad humana, hasta la actualidad , es una **historia de luchas de clases**. Libres y esclavos, patricios y plebeyos, barones y siervos de la gleba, maestros y oficiales; en una palabra, opresores y oprimidos, frente a frente siempre, empeñados en una lucha ininterrumpida, velada unas veces, y otras franca y abierta, en una lucha que conduce en cada etapa a la transformación ~~revolucionaria~~ de todo el régimen social o al exterminio de ambas clases beligerantes
 
